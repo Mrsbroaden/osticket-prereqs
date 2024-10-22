@@ -32,11 +32,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="http![Capture](https://github.com/user-attachments/assets/0f7edcc6-744d-4e52-bed7-35b788e5c0b0)
-
+To enable IIS settings with CGI, I opened up Control Panel in the start menu. Opened "Programs Uninstall Programs"  Turns Windows Features On or Off. I located IIS and enabled it. Next, within World Wide Web services, and Application Development Features, I enabled CGI
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+>To enable IIS settings with CGI, I opened up Control Panel in the start menu. Opened "Programs Uninstall Programs"  Turns Windows Features On or Off. I located IIS and enabled it. Next, within World Wide Web services, and Application Development Features, I enabled CGI. 
 </p>
 <br />
 
