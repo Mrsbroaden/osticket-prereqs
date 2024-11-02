@@ -104,7 +104,7 @@ There are a number of steps involved in the installation of osTicket. After the 
 
 
 
-
+The above images show osTicket before and after the prerequisites were enabled. Some features help osTicket to function better, and were necessary for proper functionality.
 
 
 
